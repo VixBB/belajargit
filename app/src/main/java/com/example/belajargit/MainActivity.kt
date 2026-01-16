@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             BelajarGitTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "digiwdaw",
+                        name = "dadaoadad",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
